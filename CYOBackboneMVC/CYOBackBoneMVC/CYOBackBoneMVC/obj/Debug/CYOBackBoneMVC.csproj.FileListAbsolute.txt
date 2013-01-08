@@ -44,6 +44,14 @@ C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackbo
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\DotNetOpenAuth.OAuth.xml
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\DotNetOpenAuth.OpenId.xml
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\obj\Debug\CYOBackBoneMVC.csprojResolveAssemblyReference.cache
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\obj\Debug\CYOBackBoneMVC.dll
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\obj\Debug\CYOBackBoneMVC.pdb
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Owin.dll
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.Owin.Host.SystemWeb.xml

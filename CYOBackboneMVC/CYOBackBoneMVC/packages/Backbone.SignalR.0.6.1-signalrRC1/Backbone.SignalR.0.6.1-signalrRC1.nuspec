@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>Backbone.SignalR</id>
+    <version>0.6.1-signalrRC1</version>
+    <authors>Brian Genisio</authors>
+    <owners>Brian Genisio</owners>
+    <licenseUrl>https://github.com/SrtSolutions/backbone.signalr/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://srtsolutions.github.com/backbone.signalr</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This is an integration of BackboneJS and SignalR.  It includes the client and server-side components.  It allows for a replacement of the default Backbone.sync layer with one that interfaces nicely with SignalR.</description>
+    <summary>Synchronize your Backbone.js models in real-time using SignalR hubs.</summary>
+    <releaseNotes>Support for SignalR v1.0 RC1</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>SignalR BackboneJS</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.SignalR" version="1.0.0-rc1" />
+      <dependency id="Backbone.js" version="0.9.9" />
+    </dependencies>
+    <references />
+  </metadata>
+</package>

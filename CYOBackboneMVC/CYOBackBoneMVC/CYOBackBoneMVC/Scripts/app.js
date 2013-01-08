@@ -6,5 +6,7 @@ $(function () {
     var newQuestionView = new App.Views.NewQuestion({ el: $('#newQuestionView'), model: questions });
     var questionsView = new App.Views.Questions({ el: $('#questions'), model: questions });
     
-    questions.fetch();
+    $.connection.hub.start().done(function () {
+        questions.fetch();
+    });
 });
