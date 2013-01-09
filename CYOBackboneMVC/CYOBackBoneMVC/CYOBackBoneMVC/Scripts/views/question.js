@@ -7,7 +7,9 @@
         "click .voteup": "upVote",
         "click .votedown": "downVote"
     },
-
+    initialize: function () {
+        this.model.on("change", this.render, this);
+    },
     render: function () {
         var data = this.model.toJSON();
         data.tally = this.model.voteTally();

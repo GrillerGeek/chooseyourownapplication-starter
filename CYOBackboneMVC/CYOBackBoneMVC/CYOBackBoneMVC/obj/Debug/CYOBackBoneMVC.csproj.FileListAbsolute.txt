@@ -55,3 +55,4 @@ C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackbo
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.Owin.xml
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
 C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\robey.jason\Documents\GitHub\chooseyourownapplication-starter\CYOBackboneMVC\CYOBackBoneMVC\CYOBackBoneMVC\obj\Debug\CYOBackBoneMVC.csprojResolveAssemblyReference.cache
